@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranto-77
 - 👀 I’m interested in software depvelopment & Cybersecurity
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me pranto63464@gmail.com
 
 <!---
